@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Khan</h1>
-<h3 align="center">💻 Aspiring Data Scientist | 🧠 Agentic AI Enthusiast | 🐍 Python & Backend Developer</h3>
+<h3 align="center">📊 Data Science Student | 🤖 Agentic AI Developer | 🐍 Python & Backend Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZohaibCodez&label=Profile%20views&color=0e75b6&style=flat" alt="ZohaibCodez" />
@@ -13,18 +13,33 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📌 Featured Projects
+
+- **[Panaverse Agent App](https://github.com/ZohaibCodez/panaverse-agent-app)**  
+  Conversational agent built with OpenAI tools, Chainlit, and FastAPI to support intelligent workflows.
+
+- **[Statistical Analysis Report](https://github.com/ZohaibCodez/schedule-impact-statistical-analysis)**  
+  A data science project analyzing how fixed vs. flexible schedules affect student performance and satisfaction.
+
+- **[String (C++ Class) Clone](https://github.com/ZohaibCodez/text-string-clone)**  
+  Custom implementation of `std::string` in C++ with complete memory management and operator overloading.
+
+- **[Tic-Tac-Toe in C++](https://github.com/ZohaibCodez/Tic-Tac-Toe-CPP)**  
+  Command-line implementation of the classic game with clean OOP design.
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Currently Learning
 
-- 🎵 [MiniPlayer](https://github.com/ZohaibCodez/MiniPlayer): A sleek JavaScript-based mini music player.
-- 🌐 [Portfolio](https://github.com/ZohaibCodez/Portfolio): My personal portfolio website showcasing my projects and skills.
-- 🖥️ [Landing-Pages](https://github.com/ZohaibCodez/Landing-Pages): A collection of responsive HTML landing pages.
-- ❌ [Tic-Tac-Toe-CPP](https://github.com/ZohaibCodez/Tic-Tac-Toe-CPP): A C++ implementation of the classic Tic-Tac-Toe game.
+- 📈 Advanced Statistical Analysis & Probability  
+- 🤖 OpenAI Agents SDK & Agentic Workflows  
+- 🐳 Docker & 🌐 FastAPI for API Deployment  
 
 ---
 
@@ -38,8 +53,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [itxlevicodez@gmail.com](mailto:itxlevicodez@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ZohaibCodez](https://linkedin.com/in/ZohaibCodez)
+- 📧 Email: [itxlevicodez@gmail.com](mailto:itxlevicodez@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ZohaibCodez](https://linkedin.com/in/ZohaibCodez)  
 - 🌐 Portfolio: [ZohaibCodez.github.io](https://github.com/ZohaibCodez)
 
 ---
