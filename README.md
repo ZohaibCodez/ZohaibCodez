@@ -27,20 +27,28 @@ I'm a 2nd-semester Data Science student at PUCIT, passionate about building auto
 
 ---
 
-## 🧠 Skill Radar
+<div align="center">
 
-| 🛠️ Skill Area                         | Proficiency         |
-| -------------------------------------- | ------------------- |
-| **Python**                             | ★★★★☆ (Advanced)    |
-| **Data Analysis (pandas, NumPy)**      | ★★★★☆ (Strong)      |
-| **Statistical Analysis & Probability** | ★★★☆☆ (Growing)     |
-| **OpenAI SDK & Prompt Engineering**    | ★★★☆☆ (Good)        |
-| **Docker**                             | ★★☆☆☆ (Beginner)    |
-| **C++ (OOP Projects)**                 | ★★★☆☆ (Solid)       |
-| **Git & GitHub**                       | ★★★★☆ (Comfortable) |
-| **Chainlit & LLM Agents**              | ★★★☆☆ (Good)        |
-| **Asynchronous Python**                | ★★☆☆☆ (Learning)    |
-
+<table>
+  <thead>
+    <tr>
+      <th>🛠️ Skill Area</th>
+      <th>Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Python</strong></td><td>★★★★☆ (Advanced)</td></tr>
+    <tr><td><strong>Data Analysis (pandas, NumPy)</strong></td><td>★★★★☆ (Strong)</td></tr>
+    <tr><td><strong>Statistical Analysis & Probability</strong></td><td>★★★☆☆ (Growing)</td></tr>
+    <tr><td><strong>OpenAI SDK & Prompt Engineering</strong></td><td>★★★☆☆ (Good)</td></tr>
+    <tr><td><strong>Docker</strong></td><td>★★☆☆☆ (Beginner)</td></tr>
+    <tr><td><strong>C++ (OOP Projects)</strong></td><td>★★★☆☆ (Solid)</td></tr>
+    <tr><td><strong>Git & GitHub</strong></td><td>★★★★☆ (Comfortable)</td></tr>
+    <tr><td><strong>Chainlit & LLM Agents</strong></td><td>★★★☆☆ (Good)</td></tr>
+    <tr><td><strong>Asynchronous Python</strong></td><td>★★☆☆☆ (Learning)</td></tr>
+  </tbody>
+</table>
+</div>
 
 ---
 
