@@ -7,6 +7,12 @@
 
 ---
 
+🎯 **About Me**
+
+I'm a 2nd-semester Data Science student at PUCIT, passionate about building autonomous AI systems and backend services. My focus lies in combining data analysis, Python, and intelligent automation using OpenAI tools and agentic design. I love exploring real-world problems through projects and continuous learning.
+
+---
+
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,31 +25,54 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📌 Featured Projects
+---
+
+## 🧠 Skill Radar
+
+| 🛠️ Skill Area                         | Proficiency         |
+| -------------------------------------- | ------------------- |
+| **Python**                             | ★★★★☆ (Advanced)    |
+| **Data Analysis (pandas, NumPy)**      | ★★★★☆ (Strong)      |
+| **Statistical Analysis & Probability** | ★★★☆☆ (Growing)     |
+| **OpenAI SDK & Prompt Engineering**    | ★★★☆☆ (Good)        |
+| **Docker**                             | ★★☆☆☆ (Beginner)    |
+| **C++ (OOP Projects)**                 | ★★★☆☆ (Solid)       |
+| **Git & GitHub**                       | ★★★★☆ (Comfortable) |
+| **Chainlit & LLM Agents**              | ★★★☆☆ (Good)        |
+| **Asynchronous Python**                | ★★☆☆☆ (Learning)    |
+
+
+---
+
+### 📌 Featured Projects
 
 - **[Panaverse Agent App](https://github.com/ZohaibCodez/panaverse-agent-app)**  
-  Conversational agent built with OpenAI tools, Chainlit, and FastAPI to support intelligent workflows.
+  Conversational AI assistant built with OpenAI Agents SDK, Chainlit, and FastAPI for intelligent automation workflows.
 
 - **[Statistical Analysis Report](https://github.com/ZohaibCodez/schedule-impact-statistical-analysis)**  
-  A data science project analyzing how fixed vs. flexible schedules affect student performance and satisfaction.
+  Data science research project analyzing how flexible vs. fixed schedules affect student performance and satisfaction. Used Pandas, NumPy, and Matplotlib for analysis and reporting.
+
+---
+
+### 📂 Other Projects
 
 - **[String (C++ Class) Clone](https://github.com/ZohaibCodez/text-string-clone)**  
-  Custom implementation of `std::string` in C++ with complete memory management and operator overloading.
+  Recreated `std::string` in C++ with manual memory management, deep copy, and operator overloading.
 
 - **[Tic-Tac-Toe in C++](https://github.com/ZohaibCodez/Tic-Tac-Toe-CPP)**  
-  Command-line implementation of the classic game with clean OOP design.
+  Classic CLI game implementing object-oriented principles and clean code structure.
 
 ---
 
 ### 🚀 Currently Learning
 
-- 📈 Advanced Statistical Analysis & Probability  
-- 🤖 OpenAI Agents SDK & Agentic Workflows  
-- 🐳 Docker & 🌐 FastAPI for API Deployment  
+- 📈 Advanced Statistical Analysis & Probability – mastering distributions, inference, and hypothesis testing  
+- 🤖 OpenAI Agents SDK & Agentic Workflows – building autonomous data-driven systems  
+- 🐳 Docker & 🌐 FastAPI – containerizing applications and deploying production-ready APIs  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZohaibCodez&show_icons=true&theme=github_dark" alt="ZohaibCodez stats" />
@@ -55,7 +84,7 @@
 
 - 📧 Email: [itxlevicodez@gmail.com](mailto:itxlevicodez@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ZohaibCodez](https://linkedin.com/in/ZohaibCodez)  
-- 🌐 Portfolio: [ZohaibCodez.github.io](https://github.com/ZohaibCodez)
+- 🌐 Portfolio: [zohaibcodez.github.io/DS-Portfolio](https://zohaibcodez.github.io/DS-Portfolio/)
 
 ---
 
