@@ -83,7 +83,7 @@ I'm a 2nd-semester Data Science student at PUCIT, passionate about building auto
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZohaibCodez&show_icons=true&theme=github_dark" alt="ZohaibCodez stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZohaibCodez&theme=github_dark" alt="ZohaibCodez stats" />
 </p>
 
 ---
