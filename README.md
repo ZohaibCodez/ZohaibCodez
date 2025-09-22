@@ -9,7 +9,7 @@
 
 🎯 **About Me**
 
-I'm a 3rd-semester Data Science student at PUCIT, passionate about building **autonomous AI systems, intelligent workflows, and scalable backend solutions**. I focus on combining **Python, automation, data analysis, and agentic AI** to solve real-world problems. I enjoy experimenting with **AI agents, workflow automation, and data-driven apps** while constantly leveling up my skills.
+I'm a 3rd-semester Data Science student at PUCIT, passionate about building **`autonomous AI systems, intelligent workflows, and scalable backend solutions`**. I focus on combining **`Python, automation, data analysis, and agentic AI`** to solve real-world problems. I enjoy experimenting with **`AI agents, workflow automation, and data-driven apps`** while constantly leveling up my skills.
 
 ---
 
@@ -72,7 +72,7 @@ I'm a 3rd-semester Data Science student at PUCIT, passionate about building **au
 
 ### 📂 Other Projects
 
-- **[Document RAG System](https://github.com/ZohaibCodez/document-rag-system)**  
+- **[Document RAG System](https://github.com/ZohaibCodez/document-qa-rag-system)**  
   Mini RAG app answering questions from uploaded PDFs using LangChain, Pinecone, and Gemini API.
 
 - **[String (C++ Class) Clone](https://github.com/ZohaibCodez/text-string-clone)**  
